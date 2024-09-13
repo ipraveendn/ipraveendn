@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js, vue.js, complete frontend.**
 
-- 💬 Ask me about **Jam stack web development.**
+- 💬 Ask me about **JAM stack web development.**
 
 - 📫 How to reach me? **Discord - https://discord.com/invite/M25xKrDv**
 
