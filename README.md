@@ -25,7 +25,7 @@ I'm a passionate **Full Stack Developer** and **Software Development Engineer** 
 - 🤖 Explore Artificial Intelligence, Machine Learning, and Data Science
 - 🎬 Create AI-powered films and digital storytelling content
 - 💼 Offer freelance services for businesses and startups
-- 📹 Growing a **28K+ [YouTube community](https://www.youtube.com/@Royals.praveen_)** with tech content and tutorials
+- 📹 Growing a **28K+ [YouTube community](https://www.youtube.com/@Royals.praveen_)** with ai film making and content creation
 
 💡 **Philosophy:** I believe in continuous learning, innovation, and leveraging technology to create meaningful impact. Every project is an opportunity to solve problems and build value.
 
