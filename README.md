@@ -5,7 +5,7 @@
   
   [![Visitors](https://komarev.com/ghpvc/?username=ipraveendn&color=0e75b6)](https://github.com/ipraveendn)
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=1000&lines=Full+Stack+Developer;Software+Development+Engineer;Freelancer;AI+Filmmaker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Full+Stack+Developer;Software+Development+Engineer;Freelancer;AI+Filmmaker" alt="Typing SVG" />
 
 
   
