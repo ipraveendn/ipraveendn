@@ -6,6 +6,8 @@
   [![Visitors](https://komarev.com/ghpvc/?username=ipraveendn&color=0e75b6)](https://github.com/ipraveendn)
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer;Software+Development+Engineer;Freelancer;AI+Filmmaker" alt="Typing SVG" />
+
+
   
   ### 🚀 Building AI-Powered Applications and Real-World Software Solutions
   
@@ -23,7 +25,7 @@ I'm a passionate **Full Stack Developer** and **Software Development Engineer** 
 - 🤖 Explore Artificial Intelligence, Machine Learning, and Data Science
 - 🎬 Create AI-powered films and digital storytelling content
 - 💼 Offer freelance services for businesses and startups
-- 📹 Growing a **28K+ YouTube community** with tech content and tutorials
+- 📹 Growing a **28K+ [YouTube community](https://www.youtube.com/@Royals.praveen_)** with tech content and tutorials
 
 💡 **Philosophy:** I believe in continuous learning, innovation, and leveraging technology to create meaningful impact. Every project is an opportunity to solve problems and build value.
 
